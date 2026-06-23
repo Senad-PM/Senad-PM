@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Full-stack developer focused on building clean, functional web applications. Currently working with React, JavaScript, and TypeScript on the frontend, while expanding into backend development with Node.js, Express, and MongoDB. Always learning, always building 💻
 
 
