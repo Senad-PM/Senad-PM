@@ -22,11 +22,41 @@
 
 ### 🧑‍💻 About Me
 
-- 🎨 Currently working as a **Frontend Developer**, focused on building fast, responsive interfaces with **React** + **Vite** and styling with **Tailwind CSS**
-- 🌱 Actively expanding into the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🚀 Working towards becoming a well-rounded **Full Stack Developer**
-- ⚡ I enjoy clean UI, smooth UX, and writing maintainable component-driven code
-- 📫 Reach me on GitHub — **[@Senad-PM](https://github.com/Senad-PM)**
+```ts
+const senad = {
+  role: "Frontend Developer",
+  stack: {
+    core: ["React", "Vite", "Tailwind CSS"],
+    expanding: ["MongoDB", "Express", "React", "Node.js"], // MERN
+  },
+  goal: "Full Stack Developer",
+  focus: ["clean UI", "smooth UX", "component-driven code"],
+  reach: "https://github.com/Senad-PM",
+};
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Right now**
+- Building fast, responsive UIs with **React + Vite**
+- Styling with **Tailwind CSS** — utility-first, no bloat
+- Shipping features with an eye for detail and performance
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Leveling up**
+- Deepening the **MERN stack** (Mongo · Express · React · Node)
+- Designing REST APIs and connecting them to real UIs
+- Aiming to become a well-rounded **Full Stack Developer**
+
+</td>
+</tr>
+</table>
+
+> 💬 *Frontend is where I live — full stack is where I'm headed.*
 
 ---
 
@@ -70,6 +100,20 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senad-PM&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Senad-PM/Senad-PM/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Senad-PM/Senad-PM/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Senad-PM/Senad-PM/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
