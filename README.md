@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./stargazing-header.svg" width="100%" alt="header" />
+<img src="./stargazing-header-2.svg" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=560&lines=const+dev+%3D+%22%407enad%22%3B;building+with+React+%2B+Vite+%E2%9A%A1;styled+with+Tailwind+CSS+%F0%9F%8E%A8;leveling+up+the+MERN+stack+%F0%9F%9A%80;shipping...+always." alt="Typing SVG" />
 
